@@ -1,0 +1,32 @@
+modLoader="javafml" #mandatory
+loaderVersion="[28,)" #mandatory (28 is current forge version)
+
+[[mods]] #mandatory
+modId="monagm" #mandatory
+version="0.4.7" #mandatory
+displayName="Monagm" #mandatory
+authors="Userofbricks" #optional
+description='''
+This is a mod were I put all the things I would like to add to the game.
+'''
+
+[[dependencies.monagm]]
+    modId="forge"
+    mandatory=true 
+    versionRange="[28,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.monagm]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.14.4]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.monagm]]
+    modId="curios"
+    mandatory=true
+    versionRange="[FORGE-1.14.4-1.0.6]"
+    ordering="NONE"
+    side="BOTH"

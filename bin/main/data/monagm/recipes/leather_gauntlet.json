@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"SS",
+		"S "
+	],
+	
+	"key":
+	{
+		"S": { "item": "minecraft:leather" }	
+	},
+	
+	"result": { "item": "monagm:leather_gauntlet" }
+}

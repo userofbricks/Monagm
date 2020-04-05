@@ -1,0 +1,9 @@
+{
+  "replace": "false",
+  "values": [
+	"monagm:diamond_gauntlet",
+	"monagm:gold_gauntlet",
+	"monagm:iron_gauntlet",	
+	"monagm:leather_gauntlet"
+	]
+}

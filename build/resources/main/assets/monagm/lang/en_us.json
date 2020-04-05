@@ -1,0 +1,12 @@
+{
+	"itemGroup.monagm": "Monagm",
+	
+	"attribute.name.generic.attackKnockback": "Attack Knockback",
+	
+	"item.monagm.tutorial_gauntlet": "Tutorial Gauntlet",
+	"item.monagm.diamond_gauntlet": "Diamond Gauntlet",
+	"item.monagm.gold_gauntlet": "Gold Gauntlet",
+	"item.monagm.iron_gauntlet": "Iron Gauntlet",
+	"item.monagm.leather_gauntlet": "Leather Gauntlet",
+	"enchantment.monagm.knockback_resistance": "Knockback Resistance"
+}
