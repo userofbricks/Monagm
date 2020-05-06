@@ -3,7 +3,7 @@ loaderVersion="[28,)" #mandatory (28 is current forge version)
 
 [[mods]] #mandatory
 modId="monagm" #mandatory
-version="0.4.7" #mandatory
+version="0.4.9" #mandatory
 displayName="Monagm" #mandatory
 authors="Userofbricks" #optional
 description='''
@@ -27,6 +27,6 @@ This is a mod were I put all the things I would like to add to the game.
 [[dependencies.monagm]]
     modId="curios"
     mandatory=true
-    versionRange="[FORGE-1.14.4-1.0.6]"
+    versionRange="[FORGE-1.14.4-1.0.6,)"
     ordering="NONE"
     side="BOTH"
